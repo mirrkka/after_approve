@@ -98,8 +98,6 @@
 
 ---
 
-Если остались **вопросы**, то их можно задать [в чате](https://t.me/chatfornomads), где уже тысячи номадов прошли эту процедуру и многие готовы поделиться опытом. 
 
 **Автор**: Александра @mirrkka (мой [канал](https://t.me/digitalnomadespanol) в тг)
 
-Написано для **коммьюнити номадов Digital Nomad Spain** ([чат](https://t.me/chatfornomads) и [канал](https://t.me/spanishdigitalnomad)).
